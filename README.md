@@ -14,17 +14,17 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Tiwari1782&label=Profile%20views&color=0e75b6&style=flat" alt="Tiwari1782" />
+  <img src="https://komarev.com/ghpvc/?username=Pikashow206&label=Profile%20views&color=0e75b6&style=flat" alt="Pikashow206" />
 </p>
 
 ## 👨‍🎓 About Me
 
 - 🎓 **BTech CSE Student** at **CGC UNIVERSITY MOHALI** (2024-28)
-- 📊 **CGPA: 9.00** (till 2nd semester)
+- 📊 **CGPA: 8.5** (till 3rd semester)
 - 🏫 **Academic Background:**
   - CBSE (2022-23): - Army Public School Nehru Road, Lucknow
   - CBSE (2020-21): - Army Public School Nehru Road, Lucknow
-- 📧 How to reach me **prakashtiwarie06@gmail.com**
+- 📧 How to reach me **piyush0kumar0@gmail.com**
 - ⚡ I love web development!
 
 <br clear="right"/>
