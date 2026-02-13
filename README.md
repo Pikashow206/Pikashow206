@@ -123,9 +123,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/prakash-tiwari-8900bb2b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prakash-tiwari" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/piyush-kumar-363b343a7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prakash-tiwari" height="30" width="40" /></a>
 <a href="https://github.com/Tiwari1782" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Tiwari1782" height="30" width="40" /></a>
-<a href="https://www.instagram.com/heree_prakash_/?__pwa=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Tiwari1782" height="30" width="40" /></a>
+<a href="https://www.instagram.com/be_you_piyush?" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Pikashow206" height="30" width="40" /></a>
 </p>
 
 ---
@@ -148,15 +148,15 @@
 
 <div style="display:flex; justify-content:center; gap:40px; flex-wrap:wrap;">
 
-<img width="420" src="https://github-readme-stats.vercel.app/api?username=Tiwari1782&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
+<img width="420" src="https://github-readme-stats.vercel.app/api?username=Pikashow206&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
 
-<img width="420" src="https://nirzak-streak-stats.vercel.app/?user=Tiwari1782&theme=dark&hide_border=false" />
+<img width="420" src="https://nirzak-streak-stats.vercel.app/?user=Pikashow206&theme=dark&hide_border=false" />
 
 </div>
 
 <br/><br/>
 
-<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiwari1782&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pikashow206&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 
 </div>
 
@@ -166,7 +166,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Tiwari1782&theme=radical&no-frame=false&no-bg=true&margin-w=12" />
+<img src="https://github-profile-trophy.vercel.app/?username=Pikashow206&theme=radical&no-frame=false&no-bg=true&margin-w=12" />
 
 </div>
 
@@ -182,12 +182,12 @@
 ## 🎭 Coding Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tiwari1782&theme=tokyo-night" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pikashow206&theme=tokyo-night" alt="Activity Graph" />
 </div>
 
 ---
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Tiwari1782" alt="Tiwari1782" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Pikashow206" alt="Pikashow206" /></a> </p>
 
 ---
 
